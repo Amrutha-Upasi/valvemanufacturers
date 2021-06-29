@@ -4,4 +4,4 @@
 3.Installed media galleries and configured to create image gallery<br>
 4.Installed simple google map and configured to create address navigation in contact form<br><br>
 <img src = "mtech.PNG"><br>
-<a href = "https://valvemanufacturers.site/">Live Preview</a>
+<a href = "https://valve-manufacturers.site/">Live Preview</a>
